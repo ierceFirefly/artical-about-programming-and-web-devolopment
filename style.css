@@ -1,0 +1,47 @@
+.first1{
+    text-align: center;
+    text-transform: capitalize;
+    color: aliceblue;
+    font-style: italic;
+    font-weight: lighter;
+}
+::selection{
+    color: aquamarine;
+   background-color: blue;
+}
+
+.first2{
+    text-align: center;
+    text-transform: capitalize;
+    color: aliceblue;
+    font-style: italic;
+    font-weight: lighter;
+    text-decoration-line: underline;
+    text-decoration-color: aliceblue;
+}
+.para1{
+    text-align: center;
+    color: aliceblue;
+    text-transform: capitalize;
+    font-style: italic;
+    font-weight: bold;
+}
+p::first-letter{
+    color: aqua;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: bolder;
+}
+.two{
+    text-decoration: underline;
+    text-align: center;
+    text-transform: capitalize;
+    color: aliceblue;
+    font-style: italic;
+    font-weight: lighter;
+
+
+}
+
+
+

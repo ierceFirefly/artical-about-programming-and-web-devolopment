@@ -1,0 +1,25 @@
+.first1{
+    font-weight: lighter;
+    font-style: italic;
+    text-decoration: underline;
+    color: antiquewhite;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+.first2{
+    font-weight: lighter;
+    font-style: italic;
+    text-decoration: underline;
+    color: antiquewhite;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+.para1{
+    font-weight: bolder;
+    font-style: italic;
+    text-transform: capitalize;
+    color: antiquewhite;
+    font-size: larger;
+}
